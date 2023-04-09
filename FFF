@@ -1,0 +1,34 @@
+<mxfile>
+  <diagram>
+    <mxGraphModel>
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="2" value="Network Topology" style="shape=label;align=center;verticalAlign=middle;fontSize=25;fontStyle=1;" parent="1">
+          <mxGeometry x="60" y="50" width="780" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="3" value="" style="line;endArrow=none;html=1;" parent="1" source="4" target="5">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="4" value="EP-D3QN Raspberry Pi" style="shape=mxgraph.aws3.instance;instance=compute;fillColor=#EC7211;labelBackgroundColor=#FFFFFF;verticalAlign=middle;align=center;fontSize=16;fontStyle=1;" parent="1">
+          <mxGeometry x="100" y="125" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="5" value="YOLO Raspberry Pi 1" style="shape=mxgraph.aws3.instance;instance=compute;fillColor=#EC7211;labelBackgroundColor=#FFFFFF;verticalAlign=middle;align=center;fontSize=16;fontStyle=1;" parent="1">
+          <mxGeometry x="250" y="125" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="6" value="" style="line;endArrow=none;html=1;" parent="1" source="7" target="4">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="7" value="Wi-Fi Direct" style="shape=mxgraph.basic.arrow;arrowWidth=6;arrowSize=6;endFill=0;endArrow=block;html=1;strokeWidth=2;" parent="1">
+          <mxGeometry x="190" y="160" width="60" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="8" value="YOLO Raspberry Pi 2" style="shape=mxgraph.aws3.instance;instance=compute;fillColor=#EC7211;labelBackgroundColor=#FFFFFF;verticalAlign=middle;align=center;fontSize=16;fontStyle=1;" parent="1">
+          <mxGeometry x="400" y="125" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="9" value="" style="line;endArrow=none;html=1;" parent="1" source="10" target="4">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="10" value="Wi-Fi Direct" style="shape=mxgraph.basic.arrow;arrowWidth=6;arrowSize=6;endFill=0;endArrow=block;html=1;strokeWidth=2;" parent="1">
+          <mxGeometry x="340" y="160" width="60" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="11" value="YOLO Raspberry Pi 3" style="shape=mxgraph.aws3.instance;instance=compute;fillColor=#EC7211;labelBackgroundColor=#FFFFFF
