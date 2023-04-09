@@ -1,42 +1,28 @@
-<mxfile>
-  <diagram>
-    <mxGraphModel>
+<mxfile host="www.draw.io" modified="2022-04-05T12:05:32.780Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="5lJAL8Nl00NWxmbNcV5z" version="14.6.8" type="device">
+  <diagram id="123456789">
+    <mxGraphModel dx="1422" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
-        <mxCell id="2" value="EP-D3QN Raspberry Pi" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1">
-          <mxGeometry x="20" y="100" width="120" height="60" as="geometry"/>
+        <mxCell id="2" value="EP-D3QN Raspberry Pi" style="shape=device;perimeter=devicePerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="340" width="80" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="3" value="YOLO Raspberry Pi 1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1">
-          <mxGeometry x="220" y="40" width="120" height="60" as="geometry"/>
+        <mxCell id="3" value="YOLO Raspberry Pi 1" style="shape=device;perimeter=devicePerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="240" width="80" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="4" value="YOLO Raspberry Pi 2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1">
-          <mxGeometry x="220" y="160" width="120" height="60" as="geometry"/>
+        <mxCell id="4" value="YOLO Raspberry Pi 2" style="shape=device;perimeter=devicePerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="440" width="80" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="5" value="YOLO Raspberry Pi 3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1">
-          <mxGeometry x="420" y="40" width="120" height="60" as="geometry"/>
+        <mxCell id="5" value="YOLO Raspberry Pi 3" style="shape=device;perimeter=devicePerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="240" width="80" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="6" value="YOLO Raspberry Pi 4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1">
-          <mxGeometry x="420" y="160" width="120" height="60" as="geometry"/>
+        <mxCell id="6" value="YOLO Raspberry Pi 4" style="shape=device;perimeter=devicePerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="440" width="80" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="7" parent="1">
-          <mxGeometry x="130" y="130" width="90" height="10" as="geometry"/>
-          <mxConnector style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=none;html=1;" edge="1" parent="1" source="2" target="3">
-            <mxGeometry relative="1" as="geometry"/>
-          </mxConnector>
+        <mxCell id="7" value="[Wi-Fi Direct]" style="edgeStyle=orthogonalEdgeStyle;html=1;jettySize=auto;endArrow=none;endFill=0;endSize=8;" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="8" parent="1">
-          <mxGeometry x="130" y="220" width="90" height="10" as="geometry"/>
-          <mxConnector style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=none;html=1;" edge="1" parent="1" source="2" target="4">
-            <mxGeometry relative="1" as="geometry"/>
-          </mxConnector>
+        <mxCell id="8" value="[Wi-Fi Direct]" style="edgeStyle=orthogonalEdgeStyle;html=1;jettySize=auto;endArrow=none;endFill=0;endSize=8;" edge="1" parent="1" source="2" target="4">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="9" parent="1">
-          <mxGeometry x="330" y="130" width="90" height="10" as="geometry"/>
-          <mxConnector style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=none;html=1;" edge="1" parent="1" source="2" target="5">
-            <mxGeometry relative="1" as="geometry"/>
-          </mxConnector>
-        </mxCell>
-        <mxCell id="10" parent="1">
-          <mxGeometry x="330" y="220" width="90" height="10" as="geometry"/>
-          <mxConnector style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=none;html=1;" edge="1
+        <mxCell id="
